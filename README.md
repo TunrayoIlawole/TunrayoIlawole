@@ -7,7 +7,7 @@
 
 - 😊 Pronouns: She/her
 - 💡 Fun fact: My favourite ice cream flavour is coffee.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Java, JavaScript and SQL.
 - 😊 I’m looking for help with open-source projects, hackathons, internships, and junior-level opportunities.
 - 💼 Job interests: Software Engineer, Backend Engineer(Junior level).
 - 📫 You can contact me by emailing tunrayoilawole99@gmail.com.
