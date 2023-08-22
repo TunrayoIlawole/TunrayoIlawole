@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Motunrayo Ilawole</h1>
 <h1 align="center">Welcome to my GitHub profile</h1>
 
-<p align="center">I'm learning about open-source and technical writing</p>
+<p align="center">I'm currently learning about open-source and technical writing</p>
 
 <!--
 **TunrayoIlawole/TunrayoIlawole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
